@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.claude/
+# Never commit secrets (this app needs none)
+.env
+.streamlit/secrets.toml

@@ -1,0 +1,6 @@
+# Packages the deployed app needs (Streamlit Community Cloud installs these).
+# Tested with Python 3.14, streamlit 1.64.0, pandas 3.0.5, requests 2.34.2, plotly 7.1.0.
+streamlit~=1.64
+pandas~=3.0
+requests~=2.34
+plotly~=7.1
