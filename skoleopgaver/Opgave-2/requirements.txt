@@ -1,0 +1,7 @@
+# Streamlit Community Cloud only looks for requirements.txt next to the entrypoint
+# (this folder) or in the repo root, so the app's requirements are repeated here.
+# Keep in sync with "101 Data Handling/Opgave 2/requirements.txt".
+streamlit~=1.64
+pandas~=3.0
+requests~=2.34
+plotly~=7.1
