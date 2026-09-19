@@ -44,11 +44,5 @@ streamlit run app.py
 ```
 
 ## AI tools used
-
-> **Group: edit this so it matches what you actually did.**
-
 - **Claude** (Anthropic): brainstormed the idea and wrote the first project brief.
 - **Claude Code** (Claude Opus 5): tested the API, wrote and later simplified the code, and checked the app in a browser.
-- **What we did ourselves:** _fill in_
-
-All numbers in the app come straight from the API data.

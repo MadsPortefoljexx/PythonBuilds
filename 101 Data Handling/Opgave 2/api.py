@@ -1,6 +1,4 @@
 """Everything that talks to the Sunrise-Sunset API (https://sunrise-sunset.org/api).
-
-Uses API v2: one request returns a whole year for one place, and polar days are reported
 correctly (midnight sun = 86400 s, polar night = 0 s).
 """
 
