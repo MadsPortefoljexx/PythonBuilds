@@ -27,6 +27,11 @@
 # ── DELT PROJEKT ──────────────────────────────────────────────
 !/101 Data Handling/Opgave 2/
 
+# Compatibility entrypoint for the existing Streamlit deployment.
+!/skoleopgaver/
+!/skoleopgaver/Opgave-2/
+!/skoleopgaver/Opgave-2/app.py
+
 
 # 3) Ting der ALDRIG må med — heller ikke fra delte projekter.
 #    Står sidst, fordi den sidste matchende regel vinder.
