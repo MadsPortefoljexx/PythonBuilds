@@ -5,12 +5,13 @@
 #
 #  Sådan tilføjer du et nyt projekt:
 #    Tilføj én "!"-linje pr. mappeniveau ned til projektet, fx
-#      !/Alt/102 NLP/
-#      /Alt/102 NLP/*
-#      !/Alt/102 NLP/Mit projekt/
+#      !/102 NLP/
+#      /102 NLP/*
+#      !/102 NLP/Mit projekt/
 #    Git kan IKKE gen-inkludere en fil hvis dens forældremappe
 #    stadig er ekskluderet — derfor ét niveau ad gangen.
 #
+#  VIGTIGT: flytter du en mappe, skal stierne herunder rettes.
 #  Tjek altid bagefter:  git status --short
 # ─────────────────────────────────────────────────────────────
 
@@ -19,14 +20,12 @@
 
 # 2) Luk stien op, niveau for niveau
 !/.gitignore
-!/Alt/
-/Alt/*
 
-!/Alt/101 Data Handling/
-/Alt/101 Data Handling/*
+!/101 Data Handling/
+/101 Data Handling/*
 
 # ── DELT PROJEKT ──────────────────────────────────────────────
-!/Alt/101 Data Handling/Opgave-2/
+!/101 Data Handling/Opgave-2/
 
 
 # 3) Ting der ALDRIG må med — heller ikke fra delte projekter.
