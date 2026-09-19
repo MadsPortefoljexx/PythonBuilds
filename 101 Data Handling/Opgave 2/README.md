@@ -4,8 +4,8 @@ A Streamlit app for **international students considering Northern Europe**. Pick
 
 **Question:** How much daylight do you gain or lose by living in one city instead of another, and how big is the gap at its worst?
 
-- **Live app:** _add URL after deploying_
-- **Video:** _add link_
+- **Live app:** https://68mozykqud4jmmrxjfnhkg.streamlit.app/
+- **Video:** https://aaudk.sharepoint.com/:v:/s/Group8-Assignment2/IQCa-OlLdqPBRbM-Uxl0gTtUATbAbTMuqYkQE6QxJuNH6Xs
 - **Group 8 :** Ariel Hernan Martinelli, Bethina Ericka Villanueva Rafa, Ele Brigante Cepule, Junayed Ahmad Sojib, Mads Røge Christensen
 
 ## What the app contains
